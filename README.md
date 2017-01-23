@@ -1,0 +1,2 @@
+# LabII
+Wu algorithm
